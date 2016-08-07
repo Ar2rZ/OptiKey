@@ -624,6 +624,27 @@ namespace JuliusSweetland.OptiKey.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Croatian (Croatia) / Hrvatski (Hrvatska).
+        /// </summary>
+        public static string CROATIAN_CROATIA {
+            get {
+                return ResourceManager.GetString("CROATIAN_CROATIA", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Croatian
+        ///(Croatia) /
+        ///Hrvatski
+        ///(Hrvatska).
+        /// </summary>
+        public static string CROATIAN_CROATIA_SPLIT_WITH_NEWLINE {
+            get {
+                return ResourceManager.GetString("CROATIAN_CROATIA_SPLIT_WITH_NEWLINE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CTRL.
         /// </summary>
         public static string CTRL {
@@ -1457,7 +1478,7 @@ namespace JuliusSweetland.OptiKey.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Greek (Greece) / Ελληνικά (Greece).
+        ///   Looks up a localized string similar to Greek (Greece) / Ελληνικά (Ελλάδα).
         /// </summary>
         public static string GREEK_GREECE {
             get {
@@ -1469,7 +1490,7 @@ namespace JuliusSweetland.OptiKey.Properties {
         ///   Looks up a localized string similar to Greek
         ///(Greece) /
         ///Ελληνικά
-        ///(Greece).
+        ///(Ελλάδα).
         /// </summary>
         public static string GREEK_GREECE_SPLIT_WITH_NEWLINE {
             get {
@@ -1583,6 +1604,27 @@ namespace JuliusSweetland.OptiKey.Properties {
         public static string INVALID_KEYBOARD_AND_LANGUAGE_ERROR {
             get {
                 return ResourceManager.GetString("INVALID_KEYBOARD_AND_LANGUAGE_ERROR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italian (Italy) / Italiano (Italia).
+        /// </summary>
+        public static string ITALIAN_ITALY {
+            get {
+                return ResourceManager.GetString("ITALIAN_ITALY", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italian
+        ///(Italy) /
+        ///Italiano
+        ///(Italia).
+        /// </summary>
+        public static string ITALIAN_ITALY_SPLIT_WITH_NEWLINE {
+            get {
+                return ResourceManager.GetString("ITALIAN_ITALY_SPLIT_WITH_NEWLINE", resourceCulture);
             }
         }
         
